@@ -1,0 +1,30 @@
+.img-container {
+  height: 100%;
+  width: 100%; }
+  .img-container__img {
+    width: 60%;
+    margin-top: 8%; }
+
+nav .nav-wrapper {
+  height: 170%; }
+
+.space-margin {
+  margin-top: 13%; }
+
+.chart-collection {
+  margin-top: 3%;
+  position: fixed;
+  display: inline-block; }
+  .chart-collection img {
+    height: 40%;
+    width: 40%; }
+  .chart-collection h6 {
+    font-size: 0.8vw; }
+  .chart-collection .row {
+    padding: 0;
+    margin: 0; }
+
+.bold-font {
+  font-weight: bold; }
+
+/*# sourceMappingURL=style.css.map */
